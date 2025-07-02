@@ -1,0 +1,65 @@
+[
+  {
+    "image": "https://placehold.co/300x150/1e90ff/ffffff?text=Java+Masterclass",
+    "origin": "TLC RamanujanCollege",
+    "university": "DelhiUniversity",
+    "title": "Java Programming Masterclass",
+    "course_id": "TS3STC02",
+    "start_date": "Feb 15, 2023",
+    "category": "Technical Skills"
+  },
+  {
+    "image": "https://placehold.co/300x150/32cd32/000000?text=Web+Dev+Basics",
+    "origin": "TLC RamanujanCollege",
+    "university": "DelhiUniversity",
+    "title": "Web Development Basics",
+    "course_id": "TS3WD01",
+    "start_date": "Mar 10, 2023",
+    "category": "Web Development"
+  },
+  {
+    "image": "https://placehold.co/300x150/ff6347/ffffff?text=Data+Analysis+with+Python",
+    "origin": "TLC RamanujanCollege",
+    "university": "DelhiUniversity",
+    "title": "Data Analysis with Python",
+    "course_id": "TS3DA01",
+    "start_date": "Apr 5, 2023",
+    "category": "Data Science"
+  },
+  {
+    "image": "https://placehold.co/300x150/8a2be2/ffffff?text=Machine+Learning+101",
+    "origin": "TLC RamanujanCollege",
+    "university": "DelhiUniversity",
+    "title": "Machine Learning 101",
+    "course_id": "TS3ML01",
+    "start_date": "May 20, 2023",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "image": "https://placehold.co/300x150/f08080/000000?text=Cloud+Computing+Intro",
+    "origin": "TLC RamanujanCollege",
+    "university": "DelhiUniversity",
+    "title": "Introduction to Cloud Computing",
+    "course_id": "TS3CC01",
+    "start_date": "Jun 12, 2023",
+    "category": "Cloud Technology"
+  },
+  {
+    "image": "https://placehold.co/300x150/20b2aa/000000?text=UI/UX+Design+Fundamentals",
+    "origin": "TLC RamanujanCollege",
+    "university": "DelhiUniversity",
+    "title": "UI/UX Design Fundamentals",
+    "course_id": "TS3UX01",
+    "start_date": "Jul 1, 2023",
+    "category": "Design"
+  },
+  {
+    "image": "https://placehold.co/300x150/ff69b4/ffffff?text=Cybersecurity+Basics",
+    "origin": "TLC RamanujanCollege",
+    "university": "DelhiUniversity",
+    "title": "Cybersecurity Basics",
+    "course_id": "TS3CYB01",
+    "start_date": "Aug 8, 2023",
+    "category": "Cybersecurity"
+  }
+]
