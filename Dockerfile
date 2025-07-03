@@ -1,15 +1,12 @@
-# Use official Node image to build the React app
-FROM node:18 AS build
-
+# Stage 1: Build React app
+FROM node:18 AS builder
 WORKDIR /app
 COPY . .
 RUN npm install
 RUN npm run build
 
-# Use Nginx to serve the built React app
+# Stage 2: Serve with Nginx
 FROM nginx:alpine
-COPY --from=build /app/build /usr/share/nginx/html
-
-# Expose port 80 and start nginx
+COPY --from=builder /app/build /usr/share/nginx/html
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
